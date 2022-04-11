@@ -43,7 +43,8 @@ $ cd client/
     > npm install
 
 # Run the app
-$ npm start
+$ expo start
+$ expo watch:android
 ```
 
 ## Acknowledgements
